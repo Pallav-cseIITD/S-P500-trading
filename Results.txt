@@ -1,0 +1,34 @@
+Stats for different tested strategies
+
+===== Performance Stats (Simple SMA)=====
+avg_daily_return         : 0.0006
+annual_return            : 0.1599
+daily_volatility         : 0.0119
+annual_volatility        : 0.1891
+sharpe_ratio_annual      : 0.7844
+max_drawdown             : 0.3383
+
+==================================================================
+
+===== Performance Stats (EMA Strategy) =====
+avg_daily_return         : 0.0009
+annual_return            : 0.2696
+daily_volatility         : 0.0118
+annual_volatility        : 0.1869
+sharpe_ratio_annual      : 1.2775
+max_drawdown             : 0.3033
+
+==================================================================
+
+===== Performance Stats (Growth Strategy) =====
+avg_daily_return         : 0.0016
+annual_return            : 0.4891
+daily_volatility         : 0.0113
+annual_volatility        : 0.1789
+sharpe_ratio_annual      : 2.2269
+max_drawdown             : 0.2833
+
+===================================================================
+
+Mean reversion gave negative returns
+
